@@ -1,0 +1,10 @@
+D:\Escritorio\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase11-04\bin\Debug\pryRodriguezLP_Clase11-04.exe.config
+D:\Escritorio\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase11-04\bin\Debug\pryRodriguezLP_Clase11-04.exe
+D:\Escritorio\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase11-04\bin\Debug\pryRodriguezLP_Clase11-04.pdb
+D:\Escritorio\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase11-04\obj\Debug\pryRodriguezLP_Clase11-04.csproj.AssemblyReference.cache
+D:\Escritorio\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase11-04\obj\Debug\pryRodriguezLP_Clase11_04.Form1.resources
+D:\Escritorio\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase11-04\obj\Debug\pryRodriguezLP_Clase11_04.Properties.Resources.resources
+D:\Escritorio\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase11-04\obj\Debug\pryRodriguezLP_Clase11-04.csproj.GenerateResource.cache
+D:\Escritorio\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase11-04\obj\Debug\pryRodriguezLP_Clase11-04.csproj.CoreCompileInputs.cache
+D:\Escritorio\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase11-04\obj\Debug\pryRodriguezLP_Clase11-04.exe
+D:\Escritorio\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase11-04\obj\Debug\pryRodriguezLP_Clase11-04.pdb

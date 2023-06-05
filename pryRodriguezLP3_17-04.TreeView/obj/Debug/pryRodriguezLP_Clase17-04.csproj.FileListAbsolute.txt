@@ -1,0 +1,32 @@
+D:\Escritorio\pryRodriguezLP_Clase17-04\bin\Debug\pryRodriguezLP_Clase17-04.exe.config
+D:\Escritorio\pryRodriguezLP_Clase17-04\bin\Debug\pryRodriguezLP_Clase17-04.exe
+D:\Escritorio\pryRodriguezLP_Clase17-04\bin\Debug\pryRodriguezLP_Clase17-04.pdb
+D:\Escritorio\pryRodriguezLP_Clase17-04\bin\Debug\Interop.WMPLib.dll
+D:\Escritorio\pryRodriguezLP_Clase17-04\bin\Debug\AxInterop.WMPLib.dll
+D:\Escritorio\pryRodriguezLP_Clase17-04\obj\Debug\pryRodriguezLP_Clase17-04.csproj.AssemblyReference.cache
+D:\Escritorio\pryRodriguezLP_Clase17-04\obj\Debug\pryRodriguezLP_Clase17-04.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\pryRodriguezLP_Clase17-04\obj\Debug\Interop.WMPLib.dll
+D:\Escritorio\pryRodriguezLP_Clase17-04\obj\Debug\AxInterop.WMPLib.dll
+D:\Escritorio\pryRodriguezLP_Clase17-04\obj\Debug\pryRodriguezLP_Clase17-04.csproj.ResolveComReference.cache
+D:\Escritorio\pryRodriguezLP_Clase17-04\obj\Debug\pryRodriguezLP_Clase17_04.frmMisVideos.resources
+D:\Escritorio\pryRodriguezLP_Clase17-04\obj\Debug\pryRodriguezLP_Clase17_04.Properties.Resources.resources
+D:\Escritorio\pryRodriguezLP_Clase17-04\obj\Debug\pryRodriguezLP_Clase17-04.csproj.GenerateResource.cache
+D:\Escritorio\pryRodriguezLP_Clase17-04\obj\Debug\pryRodriguezLP_Clase17-04.csproj.CoreCompileInputs.cache
+D:\Escritorio\pryRodriguezLP_Clase17-04\obj\Debug\pryRodriguezLP_Clase17-04.exe
+D:\Escritorio\pryRodriguezLP_Clase17-04\obj\Debug\pryRodriguezLP_Clase17-04.pdb
+D:\Escritorio\Nueva carpeta\pryRodriguezLP_Clase17-04\bin\Debug\pryRodriguezLP_Clase17-04.exe.config
+D:\Escritorio\Nueva carpeta\pryRodriguezLP_Clase17-04\bin\Debug\pryRodriguezLP_Clase17-04.exe
+D:\Escritorio\Nueva carpeta\pryRodriguezLP_Clase17-04\bin\Debug\pryRodriguezLP_Clase17-04.pdb
+D:\Escritorio\Nueva carpeta\pryRodriguezLP_Clase17-04\bin\Debug\Interop.WMPLib.dll
+D:\Escritorio\Nueva carpeta\pryRodriguezLP_Clase17-04\bin\Debug\AxInterop.WMPLib.dll
+D:\Escritorio\Nueva carpeta\pryRodriguezLP_Clase17-04\obj\Debug\pryRodriguezLP_Clase17-04.csproj.AssemblyReference.cache
+D:\Escritorio\Nueva carpeta\pryRodriguezLP_Clase17-04\obj\Debug\pryRodriguezLP_Clase17-04.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\Nueva carpeta\pryRodriguezLP_Clase17-04\obj\Debug\Interop.WMPLib.dll
+D:\Escritorio\Nueva carpeta\pryRodriguezLP_Clase17-04\obj\Debug\AxInterop.WMPLib.dll
+D:\Escritorio\Nueva carpeta\pryRodriguezLP_Clase17-04\obj\Debug\pryRodriguezLP_Clase17-04.csproj.ResolveComReference.cache
+D:\Escritorio\Nueva carpeta\pryRodriguezLP_Clase17-04\obj\Debug\pryRodriguezLP_Clase17_04.frmMisVideos.resources
+D:\Escritorio\Nueva carpeta\pryRodriguezLP_Clase17-04\obj\Debug\pryRodriguezLP_Clase17_04.Properties.Resources.resources
+D:\Escritorio\Nueva carpeta\pryRodriguezLP_Clase17-04\obj\Debug\pryRodriguezLP_Clase17-04.csproj.GenerateResource.cache
+D:\Escritorio\Nueva carpeta\pryRodriguezLP_Clase17-04\obj\Debug\pryRodriguezLP_Clase17-04.csproj.CoreCompileInputs.cache
+D:\Escritorio\Nueva carpeta\pryRodriguezLP_Clase17-04\obj\Debug\pryRodriguezLP_Clase17-04.exe
+D:\Escritorio\Nueva carpeta\pryRodriguezLP_Clase17-04\obj\Debug\pryRodriguezLP_Clase17-04.pdb
