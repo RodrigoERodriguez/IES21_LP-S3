@@ -1,0 +1,23 @@
+D:\Escritorio\Nueva carpeta\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase10-04\bin\Debug\pryRodriguezLP_Clase10-04.exe.config
+D:\Escritorio\Nueva carpeta\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase10-04\bin\Debug\pryRodriguezLP_Clase10-04.exe
+D:\Escritorio\Nueva carpeta\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase10-04\bin\Debug\pryRodriguezLP_Clase10-04.pdb
+D:\Escritorio\Nueva carpeta\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase10-04\obj\Debug\pryRodriguezLP_Clase10-04.csproj.AssemblyReference.cache
+D:\Escritorio\Nueva carpeta\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase10-04\obj\Debug\pryRodriguezLP_Clase10_04.frmPantallaPrincipal.resources
+D:\Escritorio\Nueva carpeta\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase10-04\obj\Debug\pryRodriguezLP_Clase10_04.Properties.Resources.resources
+D:\Escritorio\Nueva carpeta\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase10-04\obj\Debug\pryRodriguezLP_Clase10-04.csproj.GenerateResource.cache
+D:\Escritorio\Nueva carpeta\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase10-04\obj\Debug\pryRodriguezLP_Clase10-04.csproj.CoreCompileInputs.cache
+D:\Escritorio\Nueva carpeta\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase10-04\obj\Debug\pryRodriguezLP_Clase10-04.exe
+D:\Escritorio\Nueva carpeta\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase10-04\obj\Debug\pryRodriguezLP_Clase10-04.pdb
+D:\Escritorio\Nueva carpeta\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase10-04\obj\Debug\pryRodriguezLP_Clase10_04.frmMedico.resources
+C:\Users\rodri\Desktop\IES21_LP-Repaso-S3-main\IES21_LP-Repaso-S3-main\Repaso Laboratorio de programacion II\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase10-04\bin\Debug\pryRodriguezLP_Clase10-04.exe.config
+C:\Users\rodri\Desktop\IES21_LP-Repaso-S3-main\IES21_LP-Repaso-S3-main\Repaso Laboratorio de programacion II\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase10-04\bin\Debug\pryRodriguezLP_Clase10-04.exe
+C:\Users\rodri\Desktop\IES21_LP-Repaso-S3-main\IES21_LP-Repaso-S3-main\Repaso Laboratorio de programacion II\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase10-04\bin\Debug\pryRodriguezLP_Clase10-04.pdb
+C:\Users\rodri\Desktop\IES21_LP-Repaso-S3-main\IES21_LP-Repaso-S3-main\Repaso Laboratorio de programacion II\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase10-04\obj\Debug\pryRodriguezLP_Clase10-04.csproj.AssemblyReference.cache
+C:\Users\rodri\Desktop\IES21_LP-Repaso-S3-main\IES21_LP-Repaso-S3-main\Repaso Laboratorio de programacion II\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase10-04\obj\Debug\pryRodriguezLP_Clase10-04.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodri\Desktop\IES21_LP-Repaso-S3-main\IES21_LP-Repaso-S3-main\Repaso Laboratorio de programacion II\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase10-04\obj\Debug\pryRodriguezLP_Clase10_04.frmMedico.resources
+C:\Users\rodri\Desktop\IES21_LP-Repaso-S3-main\IES21_LP-Repaso-S3-main\Repaso Laboratorio de programacion II\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase10-04\obj\Debug\pryRodriguezLP_Clase10_04.frmPantallaPrincipal.resources
+C:\Users\rodri\Desktop\IES21_LP-Repaso-S3-main\IES21_LP-Repaso-S3-main\Repaso Laboratorio de programacion II\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase10-04\obj\Debug\pryRodriguezLP_Clase10_04.Properties.Resources.resources
+C:\Users\rodri\Desktop\IES21_LP-Repaso-S3-main\IES21_LP-Repaso-S3-main\Repaso Laboratorio de programacion II\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase10-04\obj\Debug\pryRodriguezLP_Clase10-04.csproj.GenerateResource.cache
+C:\Users\rodri\Desktop\IES21_LP-Repaso-S3-main\IES21_LP-Repaso-S3-main\Repaso Laboratorio de programacion II\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase10-04\obj\Debug\pryRodriguezLP_Clase10-04.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Desktop\IES21_LP-Repaso-S3-main\IES21_LP-Repaso-S3-main\Repaso Laboratorio de programacion II\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase10-04\obj\Debug\pryRodriguezLP_Clase10-04.exe
+C:\Users\rodri\Desktop\IES21_LP-Repaso-S3-main\IES21_LP-Repaso-S3-main\Repaso Laboratorio de programacion II\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase10-04\obj\Debug\pryRodriguezLP_Clase10-04.pdb

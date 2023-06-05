@@ -1,0 +1,32 @@
+D:\Escritorio\pryRodriguezLP_Clase03-04\bin\Debug\pryRodriguezLP_Clase03-04.exe.config
+D:\Escritorio\pryRodriguezLP_Clase03-04\bin\Debug\pryRodriguezLP_Clase03-04.exe
+D:\Escritorio\pryRodriguezLP_Clase03-04\bin\Debug\pryRodriguezLP_Clase03-04.pdb
+D:\Escritorio\pryRodriguezLP_Clase03-04\obj\Debug\pryRodriguezLP_Clase03-04.csproj.AssemblyReference.cache
+D:\Escritorio\pryRodriguezLP_Clase03-04\obj\Debug\pryRodriguezLP_Clase03-04.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\pryRodriguezLP_Clase03-04\obj\Debug\pryRodriguezLP_Clase03_04.Form1.resources
+D:\Escritorio\pryRodriguezLP_Clase03-04\obj\Debug\pryRodriguezLP_Clase03_04.Properties.Resources.resources
+D:\Escritorio\pryRodriguezLP_Clase03-04\obj\Debug\pryRodriguezLP_Clase03-04.csproj.GenerateResource.cache
+D:\Escritorio\pryRodriguezLP_Clase03-04\obj\Debug\pryRodriguezLP_Clase03-04.csproj.CoreCompileInputs.cache
+D:\Escritorio\pryRodriguezLP_Clase03-04\obj\Debug\pryRodriguezLP_Clase03-04.exe
+D:\Escritorio\pryRodriguezLP_Clase03-04\obj\Debug\pryRodriguezLP_Clase03-04.pdb
+D:\Escritorio\pryRodriguez\pryRodriguezLP_Clase03-04\bin\Debug\pryRodriguezLP_Clase03-04.exe.config
+D:\Escritorio\pryRodriguez\pryRodriguezLP_Clase03-04\bin\Debug\pryRodriguezLP_Clase03-04.exe
+D:\Escritorio\pryRodriguez\pryRodriguezLP_Clase03-04\bin\Debug\pryRodriguezLP_Clase03-04.pdb
+D:\Escritorio\pryRodriguez\pryRodriguezLP_Clase03-04\obj\Debug\pryRodriguezLP_Clase03-04.csproj.AssemblyReference.cache
+D:\Escritorio\pryRodriguez\pryRodriguezLP_Clase03-04\obj\Debug\pryRodriguezLP_Clase03_04.Form1.resources
+D:\Escritorio\pryRodriguez\pryRodriguezLP_Clase03-04\obj\Debug\pryRodriguezLP_Clase03_04.Properties.Resources.resources
+D:\Escritorio\pryRodriguez\pryRodriguezLP_Clase03-04\obj\Debug\pryRodriguezLP_Clase03-04.csproj.GenerateResource.cache
+D:\Escritorio\pryRodriguez\pryRodriguezLP_Clase03-04\obj\Debug\pryRodriguezLP_Clase03-04.csproj.CoreCompileInputs.cache
+D:\Escritorio\pryRodriguez\pryRodriguezLP_Clase03-04\obj\Debug\pryRodriguezLP_Clase03-04.exe
+D:\Escritorio\pryRodriguez\pryRodriguezLP_Clase03-04\obj\Debug\pryRodriguezLP_Clase03-04.pdb
+D:\Escritorio\Nueva carpeta\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase03-04\pryRodriguez\pryRodriguezLP_Clase03-04\bin\Debug\pryRodriguezLP_Clase03-04.exe.config
+D:\Escritorio\Nueva carpeta\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase03-04\pryRodriguez\pryRodriguezLP_Clase03-04\bin\Debug\pryRodriguezLP_Clase03-04.exe
+D:\Escritorio\Nueva carpeta\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase03-04\pryRodriguez\pryRodriguezLP_Clase03-04\bin\Debug\pryRodriguezLP_Clase03-04.pdb
+D:\Escritorio\Nueva carpeta\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase03-04\pryRodriguez\pryRodriguezLP_Clase03-04\obj\Debug\pryRodriguezLP_Clase03-04.csproj.AssemblyReference.cache
+D:\Escritorio\Nueva carpeta\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase03-04\pryRodriguez\pryRodriguezLP_Clase03-04\obj\Debug\pryRodriguezLP_Clase03-04.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\Nueva carpeta\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase03-04\pryRodriguez\pryRodriguezLP_Clase03-04\obj\Debug\pryRodriguezLP_Clase03_04.Form1.resources
+D:\Escritorio\Nueva carpeta\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase03-04\pryRodriguez\pryRodriguezLP_Clase03-04\obj\Debug\pryRodriguezLP_Clase03_04.Properties.Resources.resources
+D:\Escritorio\Nueva carpeta\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase03-04\pryRodriguez\pryRodriguezLP_Clase03-04\obj\Debug\pryRodriguezLP_Clase03-04.csproj.GenerateResource.cache
+D:\Escritorio\Nueva carpeta\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase03-04\pryRodriguez\pryRodriguezLP_Clase03-04\obj\Debug\pryRodriguezLP_Clase03-04.csproj.CoreCompileInputs.cache
+D:\Escritorio\Nueva carpeta\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase03-04\pryRodriguez\pryRodriguezLP_Clase03-04\obj\Debug\pryRodriguezLP_Clase03-04.exe
+D:\Escritorio\Nueva carpeta\Repaso Laboratorio de programacion II\pryRodriguezLP_Clase03-04\pryRodriguez\pryRodriguezLP_Clase03-04\obj\Debug\pryRodriguezLP_Clase03-04.pdb
