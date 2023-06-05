@@ -1,0 +1,11 @@
+D:\Escritorio\pryRodriguezLP3_Agricultura\bin\Debug\pryRodriguezLP3_Agricultura.exe.config
+D:\Escritorio\pryRodriguezLP3_Agricultura\bin\Debug\pryRodriguezLP3_Agricultura.exe
+D:\Escritorio\pryRodriguezLP3_Agricultura\bin\Debug\pryRodriguezLP3_Agricultura.pdb
+D:\Escritorio\pryRodriguezLP3_Agricultura\obj\Debug\pryRodriguezLP3_Agricultura.csproj.AssemblyReference.cache
+D:\Escritorio\pryRodriguezLP3_Agricultura\obj\Debug\pryRodriguezLP3_Agricultura.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\pryRodriguezLP3_Agricultura\obj\Debug\pryRodriguezLP3_Agricultura.Form1.resources
+D:\Escritorio\pryRodriguezLP3_Agricultura\obj\Debug\pryRodriguezLP3_Agricultura.Properties.Resources.resources
+D:\Escritorio\pryRodriguezLP3_Agricultura\obj\Debug\pryRodriguezLP3_Agricultura.csproj.GenerateResource.cache
+D:\Escritorio\pryRodriguezLP3_Agricultura\obj\Debug\pryRodriguezLP3_Agricultura.csproj.CoreCompileInputs.cache
+D:\Escritorio\pryRodriguezLP3_Agricultura\obj\Debug\pryRodriguezLP3_Agricultura.exe
+D:\Escritorio\pryRodriguezLP3_Agricultura\obj\Debug\pryRodriguezLP3_Agricultura.pdb
