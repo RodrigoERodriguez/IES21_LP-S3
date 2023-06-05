@@ -1,0 +1,53 @@
+C:\Users\rodri\OneDrive\Escritorio\pryRodriguezED_EstructuraDeDatos\bin\Debug\pryRodriguezED_EstructuraDeDatos.exe.config
+C:\Users\rodri\OneDrive\Escritorio\pryRodriguezED_EstructuraDeDatos\bin\Debug\pryRodriguezED_EstructuraDeDatos.exe
+C:\Users\rodri\OneDrive\Escritorio\pryRodriguezED_EstructuraDeDatos\bin\Debug\pryRodriguezED_EstructuraDeDatos.pdb
+C:\Users\rodri\OneDrive\Escritorio\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Escritorio\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodri\OneDrive\Escritorio\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.frmInicio.resources
+C:\Users\rodri\OneDrive\Escritorio\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.Properties.Resources.resources
+C:\Users\rodri\OneDrive\Escritorio\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.csproj.GenerateResource.cache
+C:\Users\rodri\OneDrive\Escritorio\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.exe
+C:\Users\rodri\OneDrive\Escritorio\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.pdb
+C:\Users\rodri\OneDrive\Escritorio\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.frmPila.resources
+C:\Users\rodri\OneDrive\Escritorio\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.frmCola.resources
+C:\Users\rodri\OneDrive\Escritorio\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.frmLista.resources
+C:\Users\rodri\OneDrive\Escritorio\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.frmListaSimple.resources
+C:\Users\rodri\OneDrive\Escritorio\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.frmListasDobles.resources
+C:\Users\rodri\OneDrive\Escritorio\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.frmArbolBinario.resources
+C:\Users\rodri\OneDrive\Escritorio\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.frmSistema.resources
+C:\Users\rodri\OneDrive\Escritorio\New folder\pryRodriguezED_EstructuraDeDatos\bin\Debug\pryRodriguezED_EstructuraDeDatos.exe.config
+C:\Users\rodri\OneDrive\Escritorio\New folder\pryRodriguezED_EstructuraDeDatos\bin\Debug\pryRodriguezED_EstructuraDeDatos.exe
+C:\Users\rodri\OneDrive\Escritorio\New folder\pryRodriguezED_EstructuraDeDatos\bin\Debug\pryRodriguezED_EstructuraDeDatos.pdb
+C:\Users\rodri\OneDrive\Escritorio\New folder\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Escritorio\New folder\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodri\OneDrive\Escritorio\New folder\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.frmArbolBinario.resources
+C:\Users\rodri\OneDrive\Escritorio\New folder\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.frmCola.resources
+C:\Users\rodri\OneDrive\Escritorio\New folder\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.frmInicio.resources
+C:\Users\rodri\OneDrive\Escritorio\New folder\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.frmLista.resources
+C:\Users\rodri\OneDrive\Escritorio\New folder\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.frmListasDobles.resources
+C:\Users\rodri\OneDrive\Escritorio\New folder\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.frmListaSimple.resources
+C:\Users\rodri\OneDrive\Escritorio\New folder\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.frmPila.resources
+C:\Users\rodri\OneDrive\Escritorio\New folder\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.frmSistema.resources
+C:\Users\rodri\OneDrive\Escritorio\New folder\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.Properties.Resources.resources
+C:\Users\rodri\OneDrive\Escritorio\New folder\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.csproj.GenerateResource.cache
+C:\Users\rodri\OneDrive\Escritorio\New folder\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Escritorio\New folder\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.exe
+C:\Users\rodri\OneDrive\Escritorio\New folder\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.pdb
+D:\Escritorio\Nose\pryRodriguezED_EstructuraDeDatos\bin\Debug\pryRodriguezED_EstructuraDeDatos.exe.config
+D:\Escritorio\Nose\pryRodriguezED_EstructuraDeDatos\bin\Debug\pryRodriguezED_EstructuraDeDatos.exe
+D:\Escritorio\Nose\pryRodriguezED_EstructuraDeDatos\bin\Debug\pryRodriguezED_EstructuraDeDatos.pdb
+D:\Escritorio\Nose\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.csproj.AssemblyReference.cache
+D:\Escritorio\Nose\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.frmArbolBinario.resources
+D:\Escritorio\Nose\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.frmCola.resources
+D:\Escritorio\Nose\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.frmInicio.resources
+D:\Escritorio\Nose\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.frmLista.resources
+D:\Escritorio\Nose\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.frmListasDobles.resources
+D:\Escritorio\Nose\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.frmListaSimple.resources
+D:\Escritorio\Nose\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.frmPila.resources
+D:\Escritorio\Nose\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.frmSistema.resources
+D:\Escritorio\Nose\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.Properties.Resources.resources
+D:\Escritorio\Nose\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.csproj.GenerateResource.cache
+D:\Escritorio\Nose\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.csproj.CoreCompileInputs.cache
+D:\Escritorio\Nose\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.exe
+D:\Escritorio\Nose\pryRodriguezED_EstructuraDeDatos\obj\Debug\pryRodriguezED_EstructuraDeDatos.pdb
