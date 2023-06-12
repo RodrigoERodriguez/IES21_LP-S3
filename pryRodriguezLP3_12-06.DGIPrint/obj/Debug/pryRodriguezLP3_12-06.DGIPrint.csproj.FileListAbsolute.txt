@@ -1,0 +1,11 @@
+D:\Escritorio\pryRodriguezLP3_12-06.DGIPrint\bin\Debug\pryRodriguezLP3_12-06.DGIPrint.exe.config
+D:\Escritorio\pryRodriguezLP3_12-06.DGIPrint\bin\Debug\pryRodriguezLP3_12-06.DGIPrint.exe
+D:\Escritorio\pryRodriguezLP3_12-06.DGIPrint\bin\Debug\pryRodriguezLP3_12-06.DGIPrint.pdb
+D:\Escritorio\pryRodriguezLP3_12-06.DGIPrint\obj\Debug\pryRodriguezLP3_12-06.DGIPrint.csproj.AssemblyReference.cache
+D:\Escritorio\pryRodriguezLP3_12-06.DGIPrint\obj\Debug\pryRodriguezLP3_12-06.DGIPrint.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\pryRodriguezLP3_12-06.DGIPrint\obj\Debug\pryRodriguezLP3_12_06.DGIPrint.Form1.resources
+D:\Escritorio\pryRodriguezLP3_12-06.DGIPrint\obj\Debug\pryRodriguezLP3_12_06.DGIPrint.Properties.Resources.resources
+D:\Escritorio\pryRodriguezLP3_12-06.DGIPrint\obj\Debug\pryRodriguezLP3_12-06.DGIPrint.csproj.GenerateResource.cache
+D:\Escritorio\pryRodriguezLP3_12-06.DGIPrint\obj\Debug\pryRodriguezLP3_12-06.DGIPrint.csproj.CoreCompileInputs.cache
+D:\Escritorio\pryRodriguezLP3_12-06.DGIPrint\obj\Debug\pryRodriguezLP3_12-06.DGIPrint.exe
+D:\Escritorio\pryRodriguezLP3_12-06.DGIPrint\obj\Debug\pryRodriguezLP3_12-06.DGIPrint.pdb
