@@ -1,0 +1,14 @@
+D:\Escritorio\pryRepasoPreFinal\bin\Debug\pryRepasoPreFinal.exe.config
+D:\Escritorio\pryRepasoPreFinal\bin\Debug\pryRepasoPreFinal.exe
+D:\Escritorio\pryRepasoPreFinal\bin\Debug\pryRepasoPreFinal.pdb
+D:\Escritorio\pryRepasoPreFinal\obj\Debug\pryRepasoPreFinal.csproj.AssemblyReference.cache
+D:\Escritorio\pryRepasoPreFinal\obj\Debug\pryRepasoPreFinal.Form1.resources
+D:\Escritorio\pryRepasoPreFinal\obj\Debug\pryRepasoPreFinal.Properties.Resources.resources
+D:\Escritorio\pryRepasoPreFinal\obj\Debug\pryRepasoPreFinal.csproj.GenerateResource.cache
+D:\Escritorio\pryRepasoPreFinal\obj\Debug\pryRepasoPreFinal.csproj.CoreCompileInputs.cache
+D:\Escritorio\pryRepasoPreFinal\obj\Debug\pryRepasoPreFinal.exe
+D:\Escritorio\pryRepasoPreFinal\obj\Debug\pryRepasoPreFinal.pdb
+D:\Escritorio\pryRepasoPreFinal\obj\Debug\pryRepasoPreFinal.Form2.resources
+D:\Escritorio\pryRepasoPreFinal\obj\Debug\pryRepasoPreFinal.Form3.resources
+D:\Escritorio\pryRepasoPreFinal\obj\Debug\pryRepasoPreFinal.Form4.resources
+D:\Escritorio\pryRepasoPreFinal\obj\Debug\pryRepasoPreFinal.Form5.resources
