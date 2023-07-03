@@ -1,0 +1,20 @@
+D:\Escritorio\CAR (ALUMNO)\bin\Debug\CAR.exe.config
+D:\Escritorio\CAR (ALUMNO)\bin\Debug\CAR.exe
+D:\Escritorio\CAR (ALUMNO)\bin\Debug\CAR.pdb
+D:\Escritorio\CAR (ALUMNO)\obj\Debug\CAR.csproj.AssemblyReference.cache
+D:\Escritorio\CAR (ALUMNO)\obj\Debug\CAR.Form1.resources
+D:\Escritorio\CAR (ALUMNO)\obj\Debug\CAR.Properties.Resources.resources
+D:\Escritorio\CAR (ALUMNO)\obj\Debug\CAR.csproj.GenerateResource.cache
+D:\Escritorio\CAR (ALUMNO)\obj\Debug\CAR.csproj.CoreCompileInputs.cache
+D:\Escritorio\CAR (ALUMNO)\obj\Debug\CAR.exe
+D:\Escritorio\CAR (ALUMNO)\obj\Debug\CAR.pdb
+C:\TMP\2IE LP3 TMB (2023-06-27)\12.15.33 - ROMANISIO, AGUSTIN  - PC14\CAR (ALUMNO)\bin\Debug\CAR.exe.config
+C:\TMP\2IE LP3 TMB (2023-06-27)\12.15.33 - ROMANISIO, AGUSTIN  - PC14\CAR (ALUMNO)\bin\Debug\CAR.exe
+C:\TMP\2IE LP3 TMB (2023-06-27)\12.15.33 - ROMANISIO, AGUSTIN  - PC14\CAR (ALUMNO)\bin\Debug\CAR.pdb
+C:\TMP\2IE LP3 TMB (2023-06-27)\12.15.33 - ROMANISIO, AGUSTIN  - PC14\CAR (ALUMNO)\obj\Debug\CAR.csproj.AssemblyReference.cache
+C:\TMP\2IE LP3 TMB (2023-06-27)\12.15.33 - ROMANISIO, AGUSTIN  - PC14\CAR (ALUMNO)\obj\Debug\CAR.Form1.resources
+C:\TMP\2IE LP3 TMB (2023-06-27)\12.15.33 - ROMANISIO, AGUSTIN  - PC14\CAR (ALUMNO)\obj\Debug\CAR.Properties.Resources.resources
+C:\TMP\2IE LP3 TMB (2023-06-27)\12.15.33 - ROMANISIO, AGUSTIN  - PC14\CAR (ALUMNO)\obj\Debug\CAR.csproj.GenerateResource.cache
+C:\TMP\2IE LP3 TMB (2023-06-27)\12.15.33 - ROMANISIO, AGUSTIN  - PC14\CAR (ALUMNO)\obj\Debug\CAR.csproj.CoreCompileInputs.cache
+C:\TMP\2IE LP3 TMB (2023-06-27)\12.15.33 - ROMANISIO, AGUSTIN  - PC14\CAR (ALUMNO)\obj\Debug\CAR.exe
+C:\TMP\2IE LP3 TMB (2023-06-27)\12.15.33 - ROMANISIO, AGUSTIN  - PC14\CAR (ALUMNO)\obj\Debug\CAR.pdb
